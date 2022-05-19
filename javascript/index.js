@@ -23,7 +23,7 @@ console.log(n1 + n2);
  */
 
 //(ARRAY)
-/*Caro imbecil retardado quando for declarar variavel coloca ela antes do sinal de "=", por que se colocar depois ele não vai validar nada, desde já grato. att matheus do passado*/
+/*Caro eu do futuro, quando for declarar variavel coloca ela antes do sinal de "=", por que se colocar depois ele não vai validar nada, desde já grato. att matheus do passado*/
 //var lista = ["maça", "pera", "miojo", "carne", "vinho"];
 
 //lista.push("uva");// o push e para adicionar itens, o POP e para remover. Lembra de por esta merda dentro das aspas e tambem não esquece de fechar com ; //
@@ -38,10 +38,10 @@ console.log(n1 + n2);
 /*var idade = prompt("Qual a tua idade"); // aqui vai fazer uma pergunta se a resposta for maior que o valor declarado na variavel idade ele vai mostra o testo na tela, se for menor vai mostrar outra resposta.
 //var idade = 17; // aqui vai receber a idade
 if (idade >= 18){
-    alert("Olha só quem já é maior de idade já pode toma umas");
+    alert("Olha só quem já é maior de idade, já pode toma umas");
 }
 else {
-    alert("Caralho vc se fudeu ainda bem que foi vc e não eu, caralho vc se fudeu");
+    alert("Sorry jovem não tem idade suficiente.");
 }*/
 
 //(ESTRUTURA DE REPETIÇÃO)
